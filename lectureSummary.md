@@ -8,3 +8,9 @@
     > form libs.<modele> import <함수명>  
 - 셀레니움 설치
 - 크롬 드리이버 설치(현재 사용하는 크롬 버전에 맞게 다운로드)
+- 데이터 호출하기 때는 sleep으로 잠시 기다려주기
+
+### facebook id, pw 입력 후 로그인 버튼 누르기
+- find_element_by class, id, xpath
+- send_keys
+- click
