@@ -14,3 +14,5 @@
 - find_element_by class, id, xpath
 - send_keys
 - click
+
+### 정규식
