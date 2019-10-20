@@ -2,7 +2,7 @@ from selenium import webdriver
 
 rootPath = '..'
 driver = webdriver.Chrome(
-	executable_path='{}/webdriver/chromedriver'.format(rootPath)
+	executable_path='{}/webdriver/chromedriver77'.format(rootPath)
 )
 
 url = 'https://www.facebook.com/'

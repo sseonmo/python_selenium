@@ -2,7 +2,7 @@ from selenium import webdriver
 from time import sleep
 
 driver = webdriver.Chrome(
-	executable_path='../webdriver/chromedriver'
+	executable_path='../webdriver/chromedriver77'
 )
 
 url = 'http://dart.fss.or.kr/'

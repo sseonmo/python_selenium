@@ -6,7 +6,7 @@ import pandas as pd
 import openpyxl
 
 driver = webdriver.Chrome(
-	executable_path='../webdriver/chromedriver'
+	executable_path='../webdriver/chromedriver77'
 )
 
 def getProductInfo(tr):
